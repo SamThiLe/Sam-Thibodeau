@@ -1,0 +1,30 @@
+D:\School\OOP\Gwent\Gwent\bin\Debug\Gwent.exe.config
+D:\School\OOP\Gwent\Gwent\bin\Debug\Gwent.exe
+D:\School\OOP\Gwent\Gwent\bin\Debug\Gwent.pdb
+D:\School\OOP\Gwent\Gwent\obj\Debug\Gwent.csprojResolveAssemblyReference.cache
+D:\School\OOP\Gwent\Gwent\obj\Debug\Gwent.GwentForm.resources
+D:\School\OOP\Gwent\Gwent\obj\Debug\Gwent.Properties.Resources.resources
+D:\School\OOP\Gwent\Gwent\obj\Debug\Gwent.csproj.GenerateResource.cache
+D:\School\OOP\Gwent\Gwent\obj\Debug\Gwent.csproj.CoreCompileInputs.cache
+D:\School\OOP\Gwent\Gwent\obj\Debug\Gwent.exe
+D:\School\OOP\Gwent\Gwent\obj\Debug\Gwent.pdb
+D:\G\MyBrand\Gwent\Gwent\bin\Debug\Gwent.exe.config
+D:\G\MyBrand\Gwent\Gwent\bin\Debug\Gwent.exe
+D:\G\MyBrand\Gwent\Gwent\bin\Debug\Gwent.pdb
+D:\G\MyBrand\Gwent\Gwent\obj\Debug\Gwent.csprojAssemblyReference.cache
+D:\G\MyBrand\Gwent\Gwent\obj\Debug\Gwent.GwentForm.resources
+D:\G\MyBrand\Gwent\Gwent\obj\Debug\Gwent.Properties.Resources.resources
+D:\G\MyBrand\Gwent\Gwent\obj\Debug\Gwent.csproj.GenerateResource.cache
+D:\G\MyBrand\Gwent\Gwent\obj\Debug\Gwent.csproj.CoreCompileInputs.cache
+D:\G\MyBrand\Gwent\Gwent\obj\Debug\Gwent.exe
+D:\G\MyBrand\Gwent\Gwent\obj\Debug\Gwent.pdb
+D:\School\PHP\5. Portfolio\Gwent\Gwent\bin\Debug\Gwent.exe.config
+D:\School\PHP\5. Portfolio\Gwent\Gwent\bin\Debug\Gwent.exe
+D:\School\PHP\5. Portfolio\Gwent\Gwent\bin\Debug\Gwent.pdb
+D:\School\PHP\5. Portfolio\Gwent\Gwent\obj\Debug\Gwent.csprojAssemblyReference.cache
+D:\School\PHP\5. Portfolio\Gwent\Gwent\obj\Debug\Gwent.GwentForm.resources
+D:\School\PHP\5. Portfolio\Gwent\Gwent\obj\Debug\Gwent.Properties.Resources.resources
+D:\School\PHP\5. Portfolio\Gwent\Gwent\obj\Debug\Gwent.csproj.GenerateResource.cache
+D:\School\PHP\5. Portfolio\Gwent\Gwent\obj\Debug\Gwent.csproj.CoreCompileInputs.cache
+D:\School\PHP\5. Portfolio\Gwent\Gwent\obj\Debug\Gwent.exe
+D:\School\PHP\5. Portfolio\Gwent\Gwent\obj\Debug\Gwent.pdb
